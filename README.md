@@ -1,4 +1,4 @@
 # Music-play-list
 
 #Link website
-https://github.com/Ahmad-S-Mohamed/Music-play-list.git
+https://ahmad-s-mohamed.github.io/Music-play-list/
