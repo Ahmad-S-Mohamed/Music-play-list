@@ -13,8 +13,8 @@ allMusic = [
   },
   {
     name: "Ayat Quran",
-    artist: "Mohamed s EL-Manshawy",
-    img: "sound-3",
+    artist: "unknown artist",
+    img: "sound-6",
     src: "sound-3",
   },
   {
