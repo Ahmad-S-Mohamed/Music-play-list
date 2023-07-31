@@ -195,6 +195,7 @@ nav .container ul .active::before {
   padding: 25px 35px;
   text-align: center;
   position: relative;
+  height: 550px;
 }
 .landing .play-music .headphone {
   position: absolute;
